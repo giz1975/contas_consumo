@@ -97,7 +97,7 @@ Execute no início do notebook:
 
 1. Clone o repositório:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <[URL_DO_REPOSITORIO](https://github.com/giz1975/contas_consumo)>
 ```
 
 2. Abra o notebook:
@@ -107,7 +107,7 @@ jupyter notebook analise_consumo_downtown_notebook.ipynb
 
 3. Ajuste o caminho do Excel, se necessário:
 ```python
-EXCEL_PATH = "Pasta1.xlsx"
+EXCEL_PATH = "dados_consumo_nova_replublica.xlsx"
 ```
 
 4. Execute as células sequencialmente.
