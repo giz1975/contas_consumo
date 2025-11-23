@@ -18,6 +18,3 @@ O objetivo é fornecer uma base objetiva para discussão em conselho, fundamenta
 - Demonstrar, com dados, que análise financeira isolada é uma **foto de momento**, enquanto a análise de consumo é um **filme de comportamento**.
 
 ---
-
-## 📁 Estrutura do Projeto
-
